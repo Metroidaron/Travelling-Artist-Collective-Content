@@ -1,1 +1,22 @@
-//Current Artists Json File, Structure unfinished
+[
+  {
+    "artistName": "Jane Doe",
+    "artistUserName": "Sparkles",
+    "artistJoinDate": "03/03/2000",
+    "artistUrl": "https://www.artistSite.com",
+    "artistCoverPhoto": "https://www.artistSite.com/image.png",
+    "artistCoverPhotoY": "100px",
+    "artistCoverPhotoX": "0px",
+    "promoted": "true"
+  },
+  {
+    "artistName": "Jane Doe",
+    "artistUserName": "Sparkles",
+    "artistJoinDate": "03/03/2000",
+    "artistUrl": "https://www.artistSite.com",
+    "artistCoverPhoto": "https://www.artistSite.com/image.png",
+    "artistCoverPhotoY": "100px",
+    "artistCoverPhotoX": "0px",
+    "promoted": "false"
+  }
+]
